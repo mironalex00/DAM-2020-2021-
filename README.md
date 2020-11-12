@@ -39,6 +39,6 @@ Esta lista se irá ampliando y/o completando según pase el tiempo.
 
 `Instagram` : [@whoisimp00](https://www.instagram.com/whoisimp00/ "@whoisimp00")
 
-`Github`: [@alex](https://es.stackoverflow.com/users/190274/alex/ "@alex")
+`Stack Overflow`: [@alex](https://es.stackoverflow.com/users/190274/alex/ "@alex")
 
 # Realizado por Alexandru Mirón
