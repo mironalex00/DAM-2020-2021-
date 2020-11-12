@@ -1,23 +1,23 @@
 ------------
 ### Temario y Ejercicios DAM (2020-2021)
 Este github servirá como recorrido del curso realizado en TEIDE IV (Quintana)
-#####Asignaturas DAM1
+##### Asignaturas DAM1
 - Base de Datos
 - Entornos de Desarrollo
 - Lenguaje de Marcas
 - Programación
 - Sistemas Informáticos
 
-#####Asignaturas DAM2
+##### Asignaturas DAM2
 - Base de Datos
 - Lenguaje de Marcas
 - Entornos de Desarrollo
 - Programación
 - Sistemas Informáticos
 
-##Metas
+## Metas
 
-###DAM1
+### DAM1
 Esta lista se irá ampliando y/o completando según pase el tiempo.
 - [x] Bases de Datos
     - [x] Introducción al modelo E-R, diagramas y jerarquía
@@ -35,7 +35,7 @@ Esta lista se irá ampliando y/o completando según pase el tiempo.
        - [x] Unidimensionales -> Declaración, inserción y recorrido.
        - [ ] Multidimensionales -> Declaración, inserción y recorrido.
 
-####Links
+#### Links
 
 `Instagram` : [@whoisimp00](https://www.instagram.com/whoisimp00/ "@whoisimp00")
 
@@ -44,23 +44,23 @@ Esta lista se irá ampliando y/o completando según pase el tiempo.
 # Realizado por Alexandru Mirón------------
 ### Temario y Ejercicios DAM (2020-2021)
 Este github servirá como recorrido del curso realizado en TEIDE IV (Quintana)
-#####Asignaturas DAM1
+##### Asignaturas DAM1
 - Base de Datos
 - Entornos de Desarrollo
 - Lenguaje de Marcas
 - Programación
 - Sistemas Informáticos
 
-#####Asignaturas DAM2
+##### Asignaturas DAM2
 - Base de Datos
 - Lenguaje de Marcas
 - Entornos de Desarrollo
 - Programación
 - Sistemas Informáticos
 
-##Metas
+## Metas
 
-###DAM1
+### DAM1
 Esta lista se irá ampliando y/o completando según pase el tiempo.
 - [x] Bases de Datos
     - [x] Introducción al modelo E-R, diagramas y jerarquía
@@ -78,10 +78,11 @@ Esta lista se irá ampliando y/o completando según pase el tiempo.
        - [x] Unidimensionales -> Declaración, inserción y recorrido.
        - [ ] Multidimensionales -> Declaración, inserción y recorrido.
 
-####Links
+#### Links
 
 `Instagram` : [@whoisimp00](https://www.instagram.com/whoisimp00/ "@whoisimp00")
 
 `Github`: [@alex](https://es.stackoverflow.com/users/190274/alex/ "@alex")
 
 # Realizado por Alexandru Mirón
+------------
