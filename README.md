@@ -42,4 +42,3 @@ Esta lista se irá ampliando y/o completando según pase el tiempo.
 `Github`: [@alex](https://es.stackoverflow.com/users/190274/alex/ "@alex")
 
 # Realizado por Alexandru Mirón
-------------
